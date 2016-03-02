@@ -6,6 +6,8 @@ Designed and implemented by Huixiang Luo
 
 Third-party library: [pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
 
+online demo(http://www.clumsybird.cn/cv)
+
 ## About Permission
 
 The project is open-sourced under MIT license. You can use it without an explicit statement or link to this project. 
