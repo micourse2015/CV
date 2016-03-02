@@ -4,7 +4,7 @@ Designed and implemented by Huixiang Luo
 
 # Online Version
 
-Third-party library: [pagePiling.js][pagePiling_url]
+Third-party library: [pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
 
 # About permission
 
@@ -28,6 +28,3 @@ bower install
 ```
 
 Finally, run `npm start` to run the Sass compiler. It will re-run every time you save a Sass file.
-
-
-[pagePiling_url] : https://github.com/alvarotrigo/pagePiling.js
