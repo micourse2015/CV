@@ -6,7 +6,7 @@ Designed and implemented by Huixiang Luo
 
 Third-party library: [pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
 
-online demo(http://www.clumsybird.cn/cv)
+[online demo](http://www.clumsybird.cn/cv)
 
 ## About Permission
 
