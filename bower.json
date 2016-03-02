@@ -1,16 +1,17 @@
 {
-  "name": "foundation-sites-template",
+  "name": "Lance's CV",
   "version": "1.0.0",
   "authors": [
-    "ZURB <foundation@zurb.com>"
+    "Huixiang Luo"
   ],
-  "description": "Basic template for a new Foundation for Sites project.",
+  "description": "Lance's CV",
   "main": "index.html",
   "license": "MIT",
-  "homepage": "http://foundation.zurb.com",
+  "homepage": "http://lancebiu.github.io",
   "dependencies": {
-    "foundation-sites": "~6.0.0",
-    "motion-ui": "~1.1.0"
+    "jquery": "2.1.4",
+    "font-awesome": "4.5.0",
+    "pagePiling.js": "1.5.3"
   },
   "ignore": [
     "**/.*",
