@@ -6,7 +6,7 @@ Designed and implemented by Huixiang Luo
 
 Third-party library: [pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
 
-## About permission
+## About Permission
 
 The project is open-sourced under MIT license. You can use it without an explicit statement or link to this project. 
 But I'll be happy if you can do so.
