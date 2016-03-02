@@ -2,16 +2,16 @@
 
 Designed and implemented by Huixiang Luo
 
-# Online Version
+## Online Version
 
 Third-party library: [pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
 
-# About permission
+## About permission
 
 The project is open-sourced under MIT license. You can use it without an explicit statement or link to this project. 
 But I'll be happy if you can do so.
 
-### Manual Setup
+## Manual Setup
 
 To manually set up the CV, first download it with Git:
 
